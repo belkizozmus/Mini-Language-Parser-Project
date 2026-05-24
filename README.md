@@ -49,7 +49,13 @@ JSON:
             "determiner": "a",
             "noun": "telescope"
         },
-        "verb-phrase": { ... }
+        "verb-phrase": {
+            "verb": "admired",
+            "noun-phrase": {
+                "determiner": "the",
+                "noun": "cat"
+            }
+        }
     }
 }
 
@@ -66,7 +72,3 @@ Where the error occurs: at token 1 liked
 What was expected: a determiner ("a" or "the") to start
 Why the sentence is invalid: the sentence begins with a verb, but grammar requires a determiner at the beginning
 
-
-```
-
-```
