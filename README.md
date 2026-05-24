@@ -23,14 +23,9 @@ This project is a syntactic analyzer designed to evaluate the structural validit
    ```bash
    git clone https://github.com/belkizozmus/Mini-Language-Parser-Project.git
 
-```
-
 2. Navigate to the project directory and run the main script:
-```bash
-python project.py
-
-```
-
+   ```bash
+   python project.py
 
 3. The script will process the test sentences against the loaded grammar.
 4. **For valid sentences:** Click the generated QuickChart link in the terminal to view the visual parse tree.
