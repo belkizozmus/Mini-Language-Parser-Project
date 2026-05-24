@@ -16,10 +16,12 @@ This project is a syntactic analyzer designed to evaluate the structural validit
 * sentences1.txt / sentences2.txt: Example test inputs (valid and invalid sentences).
 * report.pdf: Detailed project documentation, methodology, mathematical models, and test results.
 
+
 ## How to Run
+
 1. Clone the repository:
    ```bash
-git clone https://github.com/belkizozmus/Mini-Language-Parser-Project.git
+   git clone https://github.com/belkizozmus/Mini-Language-Parser-Project.git
 
 ```
 
